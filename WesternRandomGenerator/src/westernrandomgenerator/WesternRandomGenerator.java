@@ -16,6 +16,8 @@ public class WesternRandomGenerator {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Brigand Hugo = new Brigand("Hugo");
+        Hugo.sePresenter();
     }
     
 }
